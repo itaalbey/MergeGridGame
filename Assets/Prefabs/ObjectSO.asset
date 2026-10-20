@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1b94dd9d7d6a1946b37b47cbf6c1994, type: 3}
+  m_Name: ObjectSO
+  m_EditorClassIdentifier: Assembly-CSharp::ObjectSO
+  _objectsLvlUps:
+  - Icon: {fileID: 5824875453682482651, guid: cf365f986da69d24baf88ced0b436869, type: 3}
+    Lvl: 1
+  - Icon: {fileID: -5665612028292771237, guid: 74027f9c0948f4c49a40c393dbea1ab6, type: 3}
+    Lvl: 2
+  - Icon: {fileID: -6488358223872862729, guid: 0f30d5199b630c24792d9c9941eb5c3c, type: 3}
+    Lvl: 3
+  - Icon: {fileID: 2100739025683287755, guid: b25de88f14a8147439e499e20e775b6e, type: 3}
+    Lvl: 4
+  - Icon: {fileID: 7960073287037480396, guid: 1a9d27a17b0c07247b5b59fe25946d1b, type: 3}
+    Lvl: 5
+  - Icon: {fileID: 6791956501602672557, guid: 7b120a7e66ffbc84a8fda4c71d2d2863, type: 3}
+    Lvl: 6

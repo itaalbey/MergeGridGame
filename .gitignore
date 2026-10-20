@@ -1,0 +1,38 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# === Visual Studio / IDE ===
+.vs/
+.vsconfig
+.utmp/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.userprefs
+*.opendb
+*.VC.db
+
+# === Plastic SCM (миграция) ===
+.plastic/
+ignore.conf
+
+# === Unity build artifacts ===
+*.apk
+*.aab
+*.unitypackage
+sysinfo.txt
+crashlytics-build.properties
+
+# === OS ===
+.DS_Store
+Thumbs.db
